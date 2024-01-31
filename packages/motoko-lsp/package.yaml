@@ -12,7 +12,6 @@ categories:
 
 
 source:
-  # renovate:datasource=github-tags
   id: pkg:github/dfinity/vscode-motoko
   build:
     run: |
