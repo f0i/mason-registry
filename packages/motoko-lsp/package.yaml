@@ -10,7 +10,6 @@ languages:
 categories:
   - LSP
 
-
 source:
   id: pkg:github/dfinity/vscode-motoko
   build:
