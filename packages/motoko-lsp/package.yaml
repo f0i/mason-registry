@@ -15,6 +15,7 @@ source:
   id: pkg:github/dfinity/vscode-motoko
   build:
     run: |
+      npm install
       npm run prepare
       npm run compile
 
