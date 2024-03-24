@@ -4,7 +4,7 @@ description: |
   Language server for the Motoko programming language.
 homepage: https://github.com/dfinity/vscode-motoko
 licenses:
-  - MIT
+  - Apache-2.0
 languages:
   - Motoko
 categories:
