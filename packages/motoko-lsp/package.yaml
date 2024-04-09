@@ -11,7 +11,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:github/dfinity/vscode-motoko@v0.16.2
+  id: pkg:github/dfinity/vscode-motoko@v0.16.3
   build:
     run: |
       npm install
